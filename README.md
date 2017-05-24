@@ -13,3 +13,5 @@ SimilarFilms.php will display up to 10 films with same category having at least 
 - h6.php : PHP file supporting display of Customer information with films rented and redirection to “Similar films”
 - SimilarFilms.php : Displays 10 films having same category of the Film with common actors information.
 - connect.php : Configuration file for connecting with MYSQL server.
+
+Link for demo : http://dcm.uhcl.edu/c533316fa04bogimanevijayakn/fall2016/h6.php?cid=8
